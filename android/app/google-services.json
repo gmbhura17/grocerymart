@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532686180430",
+    "project_id": "grocerymart-4ad84",
+    "storage_bucket": "grocerymart-4ad84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532686180430:android:fab4d43ec4622ab535f31f",
+        "android_client_info": {
+          "package_name": "com.example.grocerymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532686180430-e2qrie4lkmf498fq81hmbechosd3hs09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtQTw4z20kRJcufRMRGagRtcoMBy-79uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532686180430-e2qrie4lkmf498fq81hmbechosd3hs09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
